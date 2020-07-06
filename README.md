@@ -1,0 +1,2 @@
+# SpeechEmotionRecognition
+Abstract: To extract out the emotional cues from speech samples on the basis of several spectral feature extraction methods from the librosa library (MFCC, mel, chroma) and using these emotion vectors and various classification algorithm (DT, SVM, MLP and CNN ) to do a comparative study on their performances with the aim to achieve and increase accuracy in a speech emotion recognition system.
